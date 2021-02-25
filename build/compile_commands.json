@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/var/home/mykytko/Documents/kursach/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/kursach.dir/main.cpp.o -c /var/home/mykytko/Documents/kursach/main.cpp",
+  "file": "/var/home/mykytko/Documents/kursach/main.cpp"
+}
+]
